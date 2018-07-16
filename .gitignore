@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+/.vs/BlockTracer/v14
+/*.opendb
+/BlockTracer.VC.db
+Debug
+*.ipch
+/*.db
